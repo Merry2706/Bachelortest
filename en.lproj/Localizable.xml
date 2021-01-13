@@ -2,6 +2,6 @@
 <resources>
   <!-- kommentar -->
   <string name="title">Let\'s go </string>
-  <string name="akku">The battery is almost empty!\n\n Please remove \"the battery\" and charge it.\n \n This helps to extend its lifetime.</string>
+  <string name="batterie">The battery is almost empty!\n\n Please remove \"the battery\" and charge it.\n \n This helps to extend its lifetime.</string>
   <string name="forget">Forget vehicle%d</string>
 </resources>
